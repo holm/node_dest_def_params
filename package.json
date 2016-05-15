@@ -1,0 +1,9 @@
+{
+  "name": "@peakon/node_dest_def_params",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "6.1",
+    "npm": "3.8"
+  }
+}
